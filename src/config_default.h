@@ -49,3 +49,7 @@
 
 /* Define to 1 if the Clp package is used */
 #define BLIS_HAS_CLP 1
+
+#define BLIS_HAS_MPI 1
+#define COIN_HAS_MPI 1
+
