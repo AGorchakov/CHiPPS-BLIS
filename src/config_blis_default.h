@@ -37,4 +37,6 @@
 
 /* Release Version number of project */
 #define BLIS_VERSION_RELEASE 9999
+#define BLIS_HAS_MPI 1
+#define COIN_HAS_MPI 1
 
