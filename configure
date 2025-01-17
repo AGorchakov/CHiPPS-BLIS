@@ -19549,7 +19549,7 @@ fi
        CPPFLAGS="$mpi_cflags"
        cat confdefs.h - <<_ACEOF >conftest.$ac_ext
 /* end confdefs.h.  */
-#include "#include "mpi.h""
+#include "mpi.h"
 int
 main (void)
 {
