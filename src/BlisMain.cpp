@@ -39,6 +39,7 @@
 
 #include "BlisConfig.h"
 #include "BlisModel.h"
+#define COIN_HAS_MPI 1
 
 #if  COIN_HAS_MPI
 #include "AlpsKnowledgeBrokerMPI.h"
